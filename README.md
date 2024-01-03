@@ -8,11 +8,17 @@ Before using this web scraper, ensure that you have the following prerequisites 
 Python 3.x
 pip (Python package installer)
 
+
 Setup
+
 git clone https://github.com/GDOasis/Oasiswebscrape.git
+
 cd Oasiswebscrape
+
 pip install -r requirements.txt
+
 python web_scraper.py https://example.com
+
 
 Legal and Ethical Considerations
 Please be aware of the legal and ethical considerations associated with web scraping. Respect the terms of service of the website you are scraping, and ensure that your actions comply with applicable laws and regulations. Unauthorized scraping may lead to legal consequences.
